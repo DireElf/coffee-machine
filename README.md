@@ -1,5 +1,5 @@
 ﻿# Coffee-Machine
-Реализация учебного проекта "Coffee machine" из курса "Java for beginners" от JetBrains,
+Моя реализация учебного проекта "Coffee machine" из курса "Java for beginners" от JetBrains,
 с говнокодом и капучинами
 
 Description
